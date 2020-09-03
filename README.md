@@ -20,4 +20,4 @@
 <br />
 
 ### Want to get in contact?
-Send me an email at nate@natesales.net!
+Send me an email at nate@natesales.net
