@@ -1,5 +1,7 @@
 # I'm Nate Sales, a student and software developer. 👋
 
+[Github Stats](https://github-readme-stats.vercel.app/api?username=natesales&show_icons=true&count_private=true&theme=tokyonight)
+
 ### Here are some of the projects I'm working on:
 - 📍 cTrace - Contact tracing and reporting for COVID-19
 - 🤖 [Team 1540](https://team1540.org) - Robot software manager for Team 1540, building autonomous robot control code.
