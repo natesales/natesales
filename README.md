@@ -1,6 +1,6 @@
 # I'm Nate Sales, a student and software developer. 👋
 
-[Github Stats](https://github-readme-stats.vercel.app/api?username=natesales&show_icons=true&count_private=true&theme=tokyonight)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=natesales&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Here are some of the projects I'm working on:
 - 📍 cTrace - Contact tracing and reporting for COVID-19
