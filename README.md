@@ -9,18 +9,3 @@
 - 💻 [Fosshost](https://fosshost.org) - Not-for-profit provider of free to use and accessible cloud-hosting services to the free and open source software community. 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=natesales&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-### And a few the languages, libraries, frameworks, and tools I frequently develop with:
-<img align="left" alt="Python" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/python.svg" />
-<img align="left" alt="Go" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/go.svg" />
-<img align="left" alt="C" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/java.svg" />
-<img align="left" alt="Java" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/c.svg" />
-<img align="left" alt="Docker" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/docker.svg" />
-<img align="left" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/flask.svg" />
-<img align="left" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/next-dot-js.svg" />
-<img align="left" alt="Flask" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/react.svg" />
-<br />
-<br />
-
-### Want to get in contact?
-Send me an email at nate@natesales.net
