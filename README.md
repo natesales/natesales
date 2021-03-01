@@ -11,6 +11,7 @@
 
 ### And a few of my smaller utilities/programs:
 - [bcg](https://github.com/natesales/bcg) - BGP filter and peering automation utility. Takes care of RPKI, IRR, and max prefix limits automatically from PeeringDB.
+- [q](https://github.com/natesales/q) - Command line DNS client with UDP, DoT, DoH, and DoQ support.
 - [stping](https://github.com/natesales/stping) - Simultaneously send ICMP pings from multiple source IPs at the same time. Handy for tuning transit prefs and troubleshooting connecitivty issues.
 
 <sub><sup>A few other old but potentially interesting projects [id3](https://github.com/natesales/id3), [NeuralNetworks](https://github.com/natesales/NeuralNetworks)</sup></sub>
