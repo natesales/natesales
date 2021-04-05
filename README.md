@@ -1,7 +1,7 @@
 # I'm Nate Sales, a student and software developer. 👋
 
 ### Here are some of the projects I'm working on:
-- 📫 [PacketFrame](https://packetframe.com/) - Anycast CDN for students, nonprofits, and amateur radio operators.
+- 📫 [Packetframe](https://packetframe.com/) - Anycast CDN for students, nonprofits, and amateur radio operators.
 - 📍 [cTrace](https://www.catlin.edu/posts/~board/stories/post/catlin-gabel-students-invent-app-to-track-on-campus-movement-during-covid-19) - Contact tracing and reporting for COVID-19
 - 🤖 [Team 1540](https://team1540.org) - Robot software manager for Team 1540, building autonomous robot control code.
 - 🌐 [AS34553](https://natesales.net/network) - Infrastructure platform for supporting personal projects as well as those led by students, nonprofits, and amateur radio operators.
