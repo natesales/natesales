@@ -6,6 +6,5 @@
 - 🧅 [Emerald Onion](https://emeraldonion.org) - Tor host with a mission to protect privacy, anonymity, access to information, and free speech online.
 - 📡 [ARIX](https://arix.dev) - The Amateur Radio Internet Exchange is an internet exchange point for licensed amateur radio operators for the use of networking research, development, and education around internet routing.
 - 📍 [cTrace](https://www.einpresswire.com/article/532863001/catlin-gabel-students-invent-app-to-track-on-campus-movement-during-covid-19) - Contact tracing and reporting for COVID-19
-- 🤖 [FRC Team 1540](https://team1540.org) - Robot software manager for Team 1540 building autonomous robot control code.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=natesales&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
