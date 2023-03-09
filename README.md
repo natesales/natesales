@@ -2,6 +2,7 @@
 
 ### Here are some of the projects I'm working on:
 - 📫 [Packetframe](https://packetframe.com/) - Open source anycast CDN
+- 💻 [Radix Project](https://radixproject.org) - Non-profit open source software hosting
 - 🌐 [AS34553](https://natesales.net/network) - My personal network platform based on [Pathvector](https://github.com/natesales/pathvector) and [XDPRTR](https://github.com/natesales/xdprtr).
 - 🧅 [Emerald Onion](https://emeraldonion.org) - Tor host with a mission to protect privacy, anonymity, access to information, and free speech online.
 - 📡 [ARIX](https://arix.dev) - The Amateur Radio Internet Exchange is an internet exchange point for licensed amateur radio operators for the use of networking research, development, and education around internet routing.
